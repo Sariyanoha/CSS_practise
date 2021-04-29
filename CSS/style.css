@@ -1,0 +1,30 @@
+/*This is heading*/
+/* lorem */
+
+h2,p{
+    color: red;
+}
+
+.heading{
+    color: green;
+}
+#para{
+   background-color: purple;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}.background{
+    min-height: 400px;
+    width: 400px;
+    margin: 0 auto;
+    background-color: #ff6347 ;
+}
+
+}
+.background{
+    min-height: 400px;
+    background-image:url(../images/1img.jpg);
+    
+}
